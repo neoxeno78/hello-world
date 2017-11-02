@@ -1,2 +1,5 @@
 # hello-world
-First repository for testing github functionalities
+
+Hi Humans!
+
+I will conquer the word!!!!
